@@ -74,27 +74,28 @@ Ma motivation et mon engagement me permettent de transformer chaque défi en opp
 - Développement mobile (Android Studio)
 - shadcn/UI
 
-#### 🌐 Objectifs Professionnels
+# 🌐 Objectifs Professionnels
 - 🚀 Contribuer à des projets web innovants
 - 📈 Continuer à développer mes compétences en développement
 - 🤝 Apporter une valeur ajoutée aux équipes et projets
 
-##### 📊 Statistiques GitHub
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=votrenom&show_icons=true&theme=radical)
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=votrenom&layout=compact&theme=radical)
+# 📊 Statistiques GitHub
+![](https://github-readme-stats.vercel.app/api?username=h3m3r4&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=h3m3r4&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=h3m3r4&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###### 🌐 Me Contacter
+# 🌐 Me Contacter
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NinaPeige (h3m3r4)) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/miryam-gakosso) 
 
-####### 🏆 Mes Différents projets
-# 🌟 [Projet 1]
+# 🏆 Mes Différents projets
+## 🌟 [Projet 1]
 Description courte et dynamique du projet
 - Technologies utilisées
 - Points clés
 - Lien vers le dépôt
 
-### 🌟 [Projet 2]
+## 🌟 [Projet 2]
 Description courte et dynamique du projet
 - Technologies utilisées
 - Points clés
