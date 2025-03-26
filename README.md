@@ -74,6 +74,19 @@ Ma motivation et mon engagement me permettent de transformer chaque défi en opp
 - Développement mobile (Android Studio)
 - shadcn/UI
 
+# 🏆 Mes Différents projets
+#### 🌟 [Projet 1]
+Description courte et dynamique du projet
+- Technologies utilisées
+- Points clés
+- Lien vers le dépôt
+
+#### 🌟 [Projet 2]
+Description courte et dynamique du projet
+- Technologies utilisées
+- Points clés
+- Lien vers le dépôt
+
 # 🌐 Objectifs Professionnels
 - 🚀 Contribuer à des projets web innovants
 - 📈 Continuer à développer mes compétences en développement
@@ -87,19 +100,6 @@ Ma motivation et mon engagement me permettent de transformer chaque défi en opp
 # 🌐 Me Contacter
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NinaPeige (h3m3r4)) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/miryam-gakosso) 
-
-# 🏆 Mes Différents projets
-#### 🌟 [Projet 1]
-Description courte et dynamique du projet
-- Technologies utilisées
-- Points clés
-- Lien vers le dépôt
-
-#### 🌟 [Projet 2]
-Description courte et dynamique du projet
-- Technologies utilisées
-- Points clés
-- Lien vers le dépôt
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
