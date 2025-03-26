@@ -89,19 +89,19 @@ Ma motivation et mon engagement me permettent de transformer chaque défi en opp
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/miryam-gakosso) 
 
 # 🏆 Mes Différents projets
-## 🌟 [Projet 1]
+#### 🌟 [Projet 1]
 Description courte et dynamique du projet
 - Technologies utilisées
 - Points clés
 - Lien vers le dépôt
 
-## 🌟 [Projet 2]
+#### 🌟 [Projet 2]
 Description courte et dynamique du projet
 - Technologies utilisées
 - Points clés
 - Lien vers le dépôt
 
-*** 💡 Citation Random ***
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
