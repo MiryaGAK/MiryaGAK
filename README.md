@@ -5,7 +5,7 @@ Je suis une Développeuse Web Junior | 🎓 Étudiante en Bachelor 3 Développem
 Dynamique, autonome, respectueuse et discrète, je suis une développeuse passionnée 😍 animée par l'amour du code et l'évolution technologique. 
 Ma motivation et mon engagement me permettent de transformer chaque défi en opportunité d'apprentissage et de croissance.
 
-### 🛠️ Compétences Techniques
+### 🛠️ Socles Techniques
 
 # 📋 Langages de Programmation
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
