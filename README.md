@@ -1,5 +1,5 @@
 # 💫 À propos de moi:
-Je suis une Développeuse Web Junior | 🎓 Étudiante en Bachelor 3 Développement Web.
+Je suis une Développeuse Web Junior | 🎓 Étudiante en quête constante de nouvelles connaissances et compétences techniques.
 
 ## 💡 Profil ​👩‍🦱
 Dynamique, autonome, respectueuse et discrète, je suis une développeuse passionnée 😍 animée par l'amour du code et l'évolution technologique. 
@@ -30,6 +30,8 @@ Ma motivation et mon engagement me permettent de transformer chaque défi en opp
 ![Express.js](https://img.shields.io/badge/Express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 # 🗃️ Bases de Données
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -49,6 +51,7 @@ Ma motivation et mon engagement me permettent de transformer chaque défi en opp
 # 💻 IDE & Éditeurs
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 # 🎨 Design & Prototypage
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
@@ -76,12 +79,6 @@ Ma motivation et mon engagement me permettent de transformer chaque défi en opp
 
 # 🏆 Mes Différents projets
 #### 🌟 [Projet 1]
-Description courte et dynamique du projet
-- Technologies utilisées
-- Points clés
-- Lien vers le dépôt
-
-#### 🌟 [Projet 2]
 Description courte et dynamique du projet
 - Technologies utilisées
 - Points clés
