@@ -74,7 +74,7 @@ Ma motivation et mon engagement me permettent de transformer chaque défi en opp
 - Modélisation de données
 - Réseaux (adressage IP, routage)
 - Virtualisation (VirtualBox, VMware)
-- Développement mobile (Android Studio)
+- Développement mobile (Android Studio, Expo go)
 - shadcn/UI
 
 # 🏆 Mes Différents projets
