@@ -90,13 +90,13 @@ Description courte et dynamique du projet
 - 🤝 Apporter une valeur ajoutée aux équipes et projets
 
 # 📊 Statistiques GitHub
-![](https://github-readme-stats.vercel.app/api?username=h3m3r4&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=h3m3r4&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=h3m3r4&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=h3m3r4&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=h3m3r4&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 # 🌐 Me Contacter
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/NinaPeige (h3m3r4)) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/miryam-gakosso) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/miryam-gakosso) 
 
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
