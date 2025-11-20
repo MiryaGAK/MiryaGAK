@@ -1,5 +1,5 @@
 # 💫 À propos de moi:
-Je suis une Développeuse Web Junior | 🎓 Étudiante en quête constante de nouvelles connaissances et compétences techniques.
+Je suis une Développeuse Web | 🎓 Étudiante en quête constante de nouvelles connaissances et compétences techniques.
 
 ## 💡 Profil ​👩‍🦱
 Dynamique, autonome, respectueuse et discrète, je suis une développeuse passionnée 😍 animée par l'amour du code et l'évolution technologique. 
@@ -24,6 +24,7 @@ Ma motivation et mon engagement me permettent de transformer chaque défi en opp
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-007ACC?style=for-the-badge&logo=swift&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
