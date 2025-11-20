@@ -40,6 +40,7 @@ Ma motivation et mon engagement me permettent de transformer chaque défi en opp
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-F69E42?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![Adminer](https://img.shields.io/badge/Adminer-3498db?style=for-the-badge&logo=adminer&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
 # 🛠️ Outils & Environnements
@@ -52,6 +53,7 @@ Ma motivation et mon engagement me permettent de transformer chaque défi en opp
 # 💻 IDE & Éditeurs
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 # 🎨 Design & Prototypage
